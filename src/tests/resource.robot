@@ -5,8 +5,8 @@ Library  SeleniumLibrary
 ${SERVER}    localhost:5001
 ${DELAY}     0.5 seconds
 ${HOME_URL}  http://${SERVER}
-${BROWSER}   chrome
-${HEADLESS}  false
+${BROWSER}   firefox
+${HEADLESS}  true
 
 *** Keywords ***
 Open And Configure Browser
