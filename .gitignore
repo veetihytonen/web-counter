@@ -1,0 +1,12 @@
+.tmp
+__pycache__
+.pytest_cache
+.coverage
+htmlcov
+.venv
+**/log.html
+**.xml
+**/report.html
+**.png
+**.log
+**/main.yaml
